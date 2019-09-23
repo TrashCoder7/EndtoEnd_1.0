@@ -4,7 +4,7 @@ public class AddClass implements TestingInterface
 {
 	
 	int b=6;
-
+	
 	public interface Negative{
 		
 		int isNegative(int x);
